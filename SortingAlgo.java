@@ -8,7 +8,7 @@ public class SortingAlgo {
     * values. This makes sure that after each iteration the
     * biggest value is the last item in the array.
     * @param array The array that is going to be sorted.*/
-    public void bubblesort(int[] array){
+    public void bubbleSort(int[] array){
 
         int tempVal;
 
